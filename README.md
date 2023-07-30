@@ -26,5 +26,5 @@ El texto de la página web está escrita en español, sin embargo las clases rel
 
 ## Contacto
 
-Desarrollado por: [Samanta Bautista](https://www.linkedin.com/in/samanta-reyes-351b7927b/) en Tecnolochicas PRO Summer Camp.
+Desarrollado por: [Samanta Bautista]([https://www.linkedin.com/in/samanta-reyes-351b7927b/](https://www.linkedin.com/in/samanta-bautista-351b7927b/)https://www.linkedin.com/in/samanta-bautista-351b7927b/) en Tecnolochicas PRO Summer Camp.
 
